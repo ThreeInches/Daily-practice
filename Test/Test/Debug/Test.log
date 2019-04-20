@@ -1,0 +1,52 @@
+﻿生成启动时间为 2019/4/10 20:36:48。
+     1>项目“E:\vs2013\作业练习\Test\Test\Test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "三子棋游戏.c" "扫雷游戏.c"
+         扫雷游戏.c
+     1>e:\vs2013\作业练习\test\test\扫雷游戏.c(37): warning C4013: “rand”未定义；假设外部返回 int
+     1>e:\vs2013\作业练习\test\test\扫雷游戏.c(106): warning C4013: “system”未定义；假设外部返回 int
+     1>e:\vs2013\作业练习\test\test\扫雷游戏.c(140): warning C4013: “srand”未定义；假设外部返回 int
+         三子棋游戏.c
+         正在生成代码...
+       Link:
+         E:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs2013\作业练习\Test\Debug\Test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\vs2013\作业练习\Test\Debug\Test.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs2013\作业练习\Test\Debug\Test.lib" /MACHINE:X86 "Debug\三子棋游戏.obj"
+         "Debug\不同方法凸显值变换的技巧以及基本迭代算法的演示.obj"
+         "Debug\二分查找.obj"
+         "Debug\使用递归和非递实现求阶乘.obj"
+         "Debug\使用递归和非递归实现strlen.obj"
+         "Debug\使用递归，实现一个整数的数位求和.obj"
+         "Debug\使用递归，实现字符串的反向排列.obj"
+         "Debug\使用递归，实现求n的k次方运算.obj"
+         "Debug\使用递归，打印整数的每一位.obj"
+         "Debug\函数调用法解决数组值变换.obj"
+         "Debug\判别最大数和次大数的方法.obj"
+         "Debug\判断一个数字在不同进制下是否为回文数.obj"
+         "Debug\判断回文数.obj"
+         "Debug\大小写转换，遇到@跳出.obj"
+         "Debug\寻找给定范围内的阿姆斯特朗数.obj"
+         "Debug\打印图案.obj"
+         "Debug\扫雷游戏.obj"
+         "Debug\模拟用户登录场景，并且只能登录三次.obj"
+         "Debug\求Sn=a+aa+aaa+aaaa+aaaaa的前5项之和，其中a是一个数字.obj"
+         "Debug\求出0～999之间的所有“水仙花数”并输出.obj"
+         "Debug\演示多个字符从两端移动，向中间汇聚.obj"
+         "Debug\猜数字游戏.obj"
+         "Debug\解决更多位数字的数值统计（以三位数为例）.obj"
+         "Debug\解决求最大公约数的同时求最小公倍数.obj"
+         "Debug\计算n的阶乘并实现阶乘的加和.obj"
+         "Debug\调用函数，不创建临时变量，求字符串长度.obj"
+         "Debug\调用函数，判断素数.obj"
+         "Debug\调用函数，判断闰年.obj"
+         "Debug\调用函数，取数位并按顺序输出.obj"
+         "Debug\调用函数，实现两个数的值交换.obj"
+         "Debug\调用函数，实现四则运算表.obj"
+         "Debug\调用函数，实现对数组的基本操作.obj"
+         "Debug\调用函数，求斐波那契数列.obj"
+         "Debug\调用函数，求阶乘.obj"
+         "Debug\高效的素数判别程序.obj"
+         Test.vcxproj -> E:\vs2013\作业练习\Test\Debug\Test.exe
+     1>已完成生成项目“E:\vs2013\作业练习\Test\Test\Test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.79
